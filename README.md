@@ -9,4 +9,5 @@ The purpose of the project was to use data from New York City's Citi Bike progra
 # Resources 
 1. Data Source: new.csv, 201908-citibike-tripdata.csv
 2. Software: Tableau, Pandas
-3. [Tableau link to dashboard](https://public.tableau.com/app/profile/alexander.r5084/viz/NYCCitibikeanalysis_16333052070550/NYCCitibikeanalysis)
+3. [Tableau link challenge](https://public.tableau.com/app/profile/alexander.r5084/viz/NYCCitibikeanalysis_16333052070550/NYCCitibikeanalysis)
+4. [Tableau link to dashboard](https://public.tableau.com/app/profile/alexander.r5084)
